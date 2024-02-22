@@ -11,6 +11,8 @@ This is a RESTful API for managing wishlists in a system. It provides endpoints 
 - bcrypt (for password hashing)
 - PostgreSQL (as the database)
 
+## API Documentation
+- https://documenter.getpostman.com/view/30001255/2sA2rB13TD
 
 ## Installation
 
